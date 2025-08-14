@@ -23,7 +23,6 @@ async function main() {
         console.error(`some error in subscription process ${error}`);
         stream.end();
     }
-
 }
 
 const FILTER_CONFIG = {

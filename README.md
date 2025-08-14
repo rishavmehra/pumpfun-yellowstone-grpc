@@ -1,15 +1,11 @@
-# ygrpc
+# Pump.fun Monitor using YellowStone grpc
 
-To install dependencies:
+### Architecture
 
-```bash
-bun install
-```
+![image](image.png)
 
-To run:
+### How to run
 
 ```bash
 bun run index.ts
 ```
-
-This project was created using `bun init` in bun v1.2.20. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
